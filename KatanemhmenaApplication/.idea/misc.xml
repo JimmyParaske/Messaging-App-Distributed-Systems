@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lenovo/OneDrive/Desktop/KatanemhmenaApplication/app/src/main/res/drawable-anydpi/ic_photo_video.xml" value="0.2445" />
+        <entry key="..\:/Users/lenovo/OneDrive/Desktop/KatanemhmenaApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2015" />
+        <entry key="..\:/Users/lenovo/OneDrive/Desktop/KatanemhmenaApplication/app/src/main/res/drawable/cicrle_button.xml" value="0.2595" />
+        <entry key="..\:/Users/lenovo/OneDrive/Desktop/KatanemhmenaApplication/app/src/main/res/drawable/circle_button.xml" value="0.19" />
+        <entry key="..\:/Users/lenovo/OneDrive/Desktop/KatanemhmenaApplication/app/src/main/res/drawable/gradient.xml" value="0.2015" />
+        <entry key="..\:/Users/lenovo/OneDrive/Desktop/KatanemhmenaApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2015" />
+        <entry key="..\:/Users/lenovo/OneDrive/Desktop/KatanemhmenaApplication/app/src/main/res/layout/activity_chat_room.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/OneDrive/Desktop/KatanemhmenaApplication/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/OneDrive/Desktop/KatanemhmenaApplication/app/src/main/res/layout/activity_messages_window.xml" value="0.2" />
+        <entry key="..\:/Users/lenovo/OneDrive/Desktop/KatanemhmenaApplication/app/src/main/res/layout/content_messages_window.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/OneDrive/Desktop/KatanemhmenaApplication/app/src/main/res/layout/fragment_first.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/lenovo/OneDrive/Desktop/KatanemhmenaApplication/app/src/main/res/layout/fragment_second.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/lenovo/OneDrive/Desktop/KatanemhmenaApplication/app/src/main/res/layout/list_item.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/OneDrive/Desktop/KatanemhmenaApplication/app/src/main/res/layout/popup.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/OneDrive/Desktop/KatanemhmenaApplication/app/src/main/res/layout/recycler_layout.xml" value="0.18984375" />
+        <entry key="..\:/Users/lenovo/OneDrive/Desktop/KatanemhmenaApplication/app/src/main/res/layout/recyclerviewrow-layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/lenovo/OneDrive/Desktop/KatanemhmenaApplication/app/src/main/res/layout/recyclerviewrow_layout.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/OneDrive/Desktop/KatanemhmenaApplication/app/src/main/res/layout/test.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/lenovo/OneDrive/Desktop/KatanemhmenaApplication/app/src/main/res/layout/test2.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
