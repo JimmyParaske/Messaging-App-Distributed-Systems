@@ -7,7 +7,7 @@ A simple local messaging app for Android.
 
 
 ### **How it works** 
-*Firstly Java files Broker, Broker1 and Broker2 must be up and running listening on a port for users to send messages.<br>
+* Firstly Java files Broker, Broker1 and Broker2 must be up and running listening on a port for users to send messages.<br>
 When the application starts each user must enter a **username** and then press **login**. Each user **must** enter a username otherwise login cannot happen (username field must not be blank)<br>
 The user can create a **new** topic or join an existing one, where everyone can enter and communicate via **text** or send **photos** and **videos**.
 Those photos or videos are being send to the other users Android device.
