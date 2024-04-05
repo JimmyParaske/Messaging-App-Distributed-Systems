@@ -5,7 +5,7 @@ Assignment for course: "**Distributed Systems**"
 
 A simple local messaging app for Android.
 
-<br>
+
 ##**How it works** 
 <br>
 *Firstly Java files Broker, Broker1 and Broker2 must be up and running listening on a port for users to send messages.<br>
