@@ -6,7 +6,7 @@ Assignment for course: "**Distributed Systems**"
 A simple local messaging app for Android.
 
 
-##**How it works** 
+## **How it works** 
 <br>
 *Firstly Java files Broker, Broker1 and Broker2 must be up and running listening on a port for users to send messages.<br>
 When the application starts each user must enter a **username** and then press **login**. Each user **must** enter a username otherwise login cannot happen (username field must not be blank)<br>
